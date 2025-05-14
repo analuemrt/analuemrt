@@ -153,10 +153,5 @@
 </tr> 
 </table>
 </div>
------------------
-<img width="175" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=analuemrt"/>
-<img alt="Followers" src="https://img.shields.io/github/followers/analuemrt?style=social"/>
-<img alt="Stars" src="https://img.shields.io/github/stars/analuemrt?style=social"/>
-<img alt="Forks" src="https://img.shields.io/github/forks/analuemrt/analuemrt?logo=git"/>
-</div>
+
 
